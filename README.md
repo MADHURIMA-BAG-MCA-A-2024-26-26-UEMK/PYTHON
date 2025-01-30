@@ -1,3 +1,8 @@
-# python 
-    - abcd
+# ASSIGNMENT 1
+    - *
+    - * *
+    - * * *
+    - * * * *
+    - * * * * *
+    
  
