@@ -63,7 +63,7 @@
     - ● Find second largest number in a list 
     - ● Intersection of two lists
     - ● Check if two lists are identical 
-    - ● Maximum and minimum element’s position in a lis   - 
+    - ● Maximum and minimum element’s position in a list  - 
 
 
 
