@@ -111,6 +111,40 @@
     o Print John's age.
     o Print Emma's highest grade
 
+#  TUPLE
+
+1. Tuple Creation & Indexing :-
+    Write a Python program to create a tuple containing the elements: 10, 20, 30, 40, 50. Print the second and fourth elements using indexing.
+2. Tuple Slicing :-
+    Given the tuple:
+    numbers = (1, 2, 3, 4, 5, 6, 7, 8, 9)
+    Write a Python program to extract a subtuple containing only the elements from index 2 to 6 (inclusive).
+3. Immutable Nature of Tuples :-
+    Consider the tuple:
+    my_tuple = (4, 8, 12, 16)
+    Try modifying the second element of my_tuple to 10. Observe the output and explain why there was an error.
+4. Tuple Packing & Unpacking :-    
+    Write a Python program that packs the values ("Alice", 25, "Engineer") into a tuple and then unpack them into separate variables.
+5. Finding Length of a Tuple :-
+    Write a function tuple_length(t) that takes a tuple t as input and returns the number of elements in the tuple.
+6. Tuple Concatenation & Repetition :-
+    Given two tuples:
+    t1 = (1, 2, 3)
+    t2 = ('a', 'b', 'c')
+    Write a Python program to concatenate t1 and t2, then repeat the resulting tuple 2 times.
+7. Tuple Membership Test :-
+    Write a function check_membership(t, element) that takes a tuple t and a value element as input and returns True if the element exists in the tuple, otherwise False.
+8. Converting a Tuple to a List & Vice Versa
+    Write a Python program that converts the tuple (10, 20, 30, 40, 50) into a list, modifies the second element to 25, and then converts it back to a tuple.
+9. Returning Multiple Values from a Function using Tuples :-
+    Write a function math_operations(a, b) that takes two numbers as input and returns a tuple containing their sum, difference, product, and quotient.
+10. Nested Tuples & Accessing Elements
+    Given the nested tuple:
+    nested_tuple = ((1, 2, 3), ("a", "b", "c"), (True, False))
+    Write a Python program to:
+    Print the second element of the second inner tuple.
+    Extract the last element of the third inner tuple
+
 
 
 
