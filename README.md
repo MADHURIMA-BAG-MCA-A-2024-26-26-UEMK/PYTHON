@@ -66,6 +66,52 @@
     - ● Maximum and minimum element’s position in a list  - 
 
 
+#  DICTIONARY 
+
+1. Dictionary Creation & Accessing Values :-       
+    Create a dictionary student with the following key-value pairs:
+    {
+    "name": "John",
+    "age": 20,
+    "course": "Computer Science"
+    }
+    Write a Python program to print the student's name and course.
+2. Adding and Updating Dictionary Elements Given the dictionary:-
+    employee = {"name": "Alice", "salary": 5000}
+    o Add a new key "department" with the value "HR".
+    o Update "salary" to 5500.
+    o Print the updated dictionary.
+3. Checking Key Existence :-
+    Write a function check_key(d, key) that takes a dictionary d and a key key, and returns True if the key exists in the dictionary, otherwise False.
+4. Iterating Over a Dictionary :-    
+    Write a Python program that iterates over the following dictionary and prints each key-value pair:
+    fruits = {"apple": 10, "banana": 5, "cherry": 15}
+5. Dictionary Length :-    
+    Write a function dict_length(d) that returns the number of key-value pairs in a given dictionary.
+6. Merging Two Dictionaries Given two dictionaries:-
+    d1 = {"a": 1, "b": 2}
+    d2 = {"b": 3, "c": 4}
+    Write a program to merge d1 and d2, where keys in both dictionaries should have the values from d2.
+7. Removing an Item from a Dictionary     Given the dictionary:
+    country_capitals = {"USA": "Washington", "France": "Paris", "India": "New Delhi"}
+    Write a program to remove the key "France" from the dictionary and print the updated dictionary.
+8. Converting Two Lists into a Dictionary Given two lists:
+    keys = ["name", "age", "city"]
+    values = ["Alice", 25, "New York"]
+    Write a program to convert them into a dictionary.    
+9. Finding Maximum and Minimum Values in a Dictionary     Given the dictionary:
+    scores = {"Alice": 85, "Bob": 92, "Charlie": 78, "David": 95}
+    Write a Python program to find the student with the highest and lowest scores.
+10. Nested Dictionary & Accessing Elements Given the dictionary:-    
+    students = {
+    "John": {"age": 20, "grades": [85, 90, 92]},
+    "Emma": {"age": 22, "grades": [88, 79, 95]}
+    }
+    Write a program to:
+    o Print John's age.
+    o Print Emma's highest grade
+
+
 
 
 
