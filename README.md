@@ -146,6 +146,15 @@
     Extract the last element of the third inner tuple
 
 
+#  PRACTICE QUESTIONS 
+
+1. Program to Count Word Frequency in a Sentence
+2. Program to Sort a List of Dictionaries by a Key
+3. Program to Find the Most Frequent Element in a List
+4. Program to Convert a List into a Dictionary
+5. Program to Group Elements by Frequency
+
+
 
 
 
