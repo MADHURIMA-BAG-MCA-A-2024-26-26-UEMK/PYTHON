@@ -118,7 +118,7 @@
 #  TUPLE
 
 1. Tuple Creation & Indexing :-
-    Write a Python program to create a tuple containing the elements: 10, 20, 30, 40, 50. Print the second and fourth elements using indexing.
+    Write a Python program to create a tuple containing the elements: 10, 20, 30, 40, 50. Print the second and fourth       elements using indexing.
 2. Tuple Slicing :-
     Given the tuple:
     numbers = (1, 2, 3, 4, 5, 6, 7, 8, 9)
