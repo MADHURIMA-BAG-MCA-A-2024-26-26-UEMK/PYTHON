@@ -1,7 +1,9 @@
 # ASSIGNMENT 1
+
     - IMMAGE LINK ["C:\Users\madhu\Documents\GitHub\PYTHON\Screenshot 2025-01-30 224342.png"]
 
 # ASSIGNMENT 2
+
     - Topic: Series
     - 1. 11+2!+3!+…………….+n!
     - 2. 1/1!+2/2!+3/3!+…………+n/n!
@@ -23,6 +25,7 @@
     - 18. Find the nth term a,b,b,c,c,c,……………………
 
 # ASSIGNMENT 3
+
     - Topic: Lists
     - 1.Write a program to input a 4 digit number and print the even and odd digits and total even and odd digits
     - 2.Write a program to input a 10 digit number and find the digit with maximum value.
@@ -46,6 +49,7 @@
         The area of a circle with radius 10 is 314 meters square.
 
 # ASSIGNMENT 4
+
     - Strings
     - ● Removing all duplicates from a string 
     - ● Reverse words in a given string
@@ -114,7 +118,7 @@
 #  TUPLE
 
 1. Tuple Creation & Indexing :-
-    Write a Python program to create a tuple containing the elements: 10, 20, 30, 40, 50. Print the second and fourth elements using indexing.
+    Write a Python program to create a tuple containing the elements: 10, 20, 30, 40, 50. Print the second and fourth       elements using indexing.
 2. Tuple Slicing :-
     Given the tuple:
     numbers = (1, 2, 3, 4, 5, 6, 7, 8, 9)
