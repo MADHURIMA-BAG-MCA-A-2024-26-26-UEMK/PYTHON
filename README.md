@@ -159,7 +159,24 @@
 5. Program to Group Elements by Frequency
 
 
-# 
+# ASSIGNMENT 6
+1.	Define a function that can convert a integer into a string and print it in console. 
+2.	Define a function that can receive two integral numbers in string form and compute their sum and then print it in console. 
+3.	Define a function that can accept two strings as input and print the string with maximum length in console. If two strings have the same length, then the function should print al l strings line by line. 
+4.	Define a function which can print a dictionary where the keys are numbers between 1 and 20 (both included) and the values are square of keys. 
+5.	With a given tuple (1,2,3,4,5,6,7,8,9,10), write a program to print the first half values in one line and the last half values in one line.  
+6.	Solve the classic Tower of Hanoi problem using recursion. 
+Write a function tower_of_hanoi(n, source, auxiliary, target) that moves n disks from source to target using auxiliary. 
+7.	Reverse a given string without using loops. 
+Define a recursive function reverse_string(s). 
+Swap the first and last character and recurse. 
+8.	Compute the GCD of two numbers using recursion (Euclidean algorithm). Implement gcd(a, b) using the property: gcd(a,b)=gcd(b,amod  b) Stop when b == 0. 
+9.	Implement a recursive function to calculate aba^bab. 
+Write a function power(a, b) that computes aba^bab recursively. Base case: b=0 (return 1). 
+10.	Generate all subsets of a given set recursively. 
+Implement a function generate_subsets(arr, current, index). Either include or exclude each element recursively. 
+ 
+
 
 
 
